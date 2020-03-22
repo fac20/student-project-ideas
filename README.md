@@ -1,10 +1,10 @@
 Student Project Ideas :sparkles:
 
-A place for FAC17 to document ideas and thoughts for student projects (Weeks 10 - 12). 
+A place for FAC19 to document ideas and thoughts for student projects (Weeks 10 - 12). 
 
 ## Contributing
 
-Every member of FAC17 is encouraged to contribute an issue, although you are not required to.
+Every member of FAC19 is encouraged to contribute an issue, although you are not required to.
 
 Please contribute by opening an issue and using the 'Student Project Idea' template.
 
