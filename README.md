@@ -1,6 +1,6 @@
 Student Project Ideas :sparkles:
 
-A place for FAC19 to document ideas and thoughts for student projects (Weeks 10 - 12). 
+A place for FAC19 to document ideas and thoughts for student projects (Weeks 11 - 13). 
 
 ## Contributing
 
