@@ -12,4 +12,4 @@ We're looking for **problems, not solutions**, so even if you do have an idea in
 
 You can contribute more than one issue if you like.
 
-Before reading week (and depending on how many ideas are submitted), we will take 90-120 seconds for each issue to be introduced by the person who wrote it, so everyone understands the starting point for each potential project.
+Before reading week (and depending on how many ideas are submitted), we will take 90-120 seconds for each issue to be introduced by the person who wrote it, so everyone understands the starting point for each potential project. Everyone is then encouraged to react to and leave comments on whichever issues spark some interest.
