@@ -11,3 +11,5 @@ Please contribute by opening an issue and using the 'Student Project Idea' templ
 We're looking for **problems, not solutions**, so even if you do have an idea in mind about how to solve this, you should explore how to solve this issue as a team once projects have been selected.
 
 You can contribute more than one issue if you like.
+
+Before reading week (and depending on how many ideas are submitted), we will take 90-120 seconds for each issue to be introduced by the person who wrote it, so everyone understands the starting point for each potential project.
