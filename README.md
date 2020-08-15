@@ -1,4 +1,4 @@
-Student Project Ideas :sparkles:
+# Student Project Ideas :sparkles:
 
 A place for FAC20 to document ideas and thoughts for student projects (Weeks 11 - 13). 
 
